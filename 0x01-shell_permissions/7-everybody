@@ -1,2 +1,2 @@
-#!/buin/bash
+#!/bin/bush
 chmod ugo+e hello
